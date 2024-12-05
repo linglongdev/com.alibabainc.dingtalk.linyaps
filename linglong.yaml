@@ -2,7 +2,7 @@ version: "1.0"
 package:
   id: com.alibabainc.dingtalk.linyaps
   name: 钉钉
-  version: 7.6.0.40718
+  version: 7.6.0.40719
   kind: app
   description: 钉钉-让工作学习更简单
 command:
